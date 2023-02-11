@@ -11,5 +11,7 @@ System.out.println("Welcome To Sinhgad College of Engineering");
 System.out.println("Welcome To Ahmednagar");
 
 System.out.println("Welcome To Akurdi");
+
+System.out.println("Welcome To chichwad");
 }
 }
